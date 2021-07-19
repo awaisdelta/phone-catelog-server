@@ -1,7 +1,7 @@
 #Installation
 
-run npm install
+run `npm install`
 
 #Run
 
-run npm start
+run `npm start`
