@@ -10,7 +10,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/awaisdelta/phone-catelog-server?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/awaisdelta/phone-catelog-server?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/awaisdelta/phone-catelog-server?color=56BEB8" /> -->
 
