@@ -1,8 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Catalogue Server" />
-
-  &#xa0;
-
 </div>
 
 <h1 align="center">Catalogue Server</h1>
@@ -49,8 +45,8 @@ Catalogue-Server is written to provide list of products and serve images of prod
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1; API which provides list of products. URI for the API is `server_url/phones`
-:heavy_check_mark: Feature 2; Serve product images from static `directory`
+:heavy_check_mark: API which provides list of products. URI for the API is `server_url/phones`;\
+:heavy_check_mark: Serve product images from static `directory`;
 
 ## :rocket: Technologies ##
 
