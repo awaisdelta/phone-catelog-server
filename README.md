@@ -74,8 +74,13 @@ $ npm install
 $ npm start
 
 # The server will initialize in the <http://localhost:3000>
+
+# Run tests
+$ npm test
 ```
 
+## Deployed on heroku
+https://phone-catelog.herokuapp.com
 
 Made with :heart: by <a href="https://github.com/AwaisRai" target="_blank">Awais Rai</a>
 
